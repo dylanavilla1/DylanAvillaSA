@@ -157,6 +157,11 @@ section .button-style .resume:hover {
 		margin: 5px 0;
 	}
 
+	section .name img {
+		top:120px;
+	}
+
+
 	section .name p {
 		font-size: 14px;
 	}
