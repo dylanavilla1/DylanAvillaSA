@@ -158,7 +158,7 @@ section .button-style .resume:hover {
 	}
 
 	section .name img {
-		top:120px;
+		background-color: blue;
 	}
 
 
