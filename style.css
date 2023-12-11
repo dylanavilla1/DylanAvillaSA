@@ -142,7 +142,7 @@ section .button-style .resume:hover {
 	color: white;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 320px) {
 	section {
 		width: 100%;
 	}
@@ -159,7 +159,7 @@ section .button-style .resume:hover {
 
 	section .name img {
 		position: absolute;
-		top:100px;
+		top:140px;
 	}
 
 
